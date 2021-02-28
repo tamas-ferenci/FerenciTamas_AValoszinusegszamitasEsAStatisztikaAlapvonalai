@@ -25,7 +25,6 @@ distr01panel <- function( ... ) {
   lattice::panel.grid( h = -1, v = 0 )
   lattice::panel.xyplot( ... )
 }
-download.file("https://raw.githubusercontent.com/tamas-ferenci/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/master/FerenciTamas_ValszamEsStatAlapvonalai_cover.png", "./docs/FerenciTamas_ValszamEsStatAlapvonalai_cover.png", mode = "wb")
 set.seed(1)
 ```
 
