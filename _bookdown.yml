@@ -1,0 +1,9 @@
+book_filename: "FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai"
+language:
+  ui:
+    chapter_name: !expr function(i) paste(i, ". fejezet")
+    edit: "Szerkesztés"
+  label:
+    fig: "Ábra "
+delete_merged_file: true
+output_dir: "docs"
